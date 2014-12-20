@@ -1,0 +1,4 @@
+Plugmin
+=======
+
+A pluggable Admin
